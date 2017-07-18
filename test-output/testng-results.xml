@@ -2,40 +2,40 @@
 <testng-results skipped="0" failed="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="8876" started-at="2017-07-14T07:44:27Z" finished-at="2017-07-14T07:44:36Z">
+  <suite name="Default suite" duration-ms="6233" started-at="2017-07-18T08:48:13Z" finished-at="2017-07-18T08:48:19Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="8876" started-at="2017-07-14T07:44:27Z" finished-at="2017-07-14T07:44:36Z">
-      <class name="Test_Version1">
-        <test-method status="PASS" signature="setupURL()[pri:0, instance:Test_Version1@28d25987]" name="setupURL" is-config="true" duration-ms="375" started-at="2017-07-14T13:14:27Z" finished-at="2017-07-14T13:14:28Z">
+    <test name="Default test" duration-ms="6233" started-at="2017-07-18T08:48:13Z" finished-at="2017-07-18T08:48:19Z">
+      <class name="TestVersion2">
+        <test-method status="PASS" signature="setupURL()[pri:0, instance:TestVersion2@28d25987]" name="setupURL" is-config="true" duration-ms="431" started-at="2017-07-18T14:18:13Z" finished-at="2017-07-18T14:18:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupURL -->
-        <test-method status="PASS" signature="Create_A_New_Board()[pri:1, instance:Test_Version1@28d25987]" name="Create_A_New_Board" duration-ms="6027" started-at="2017-07-14T13:14:28Z" finished-at="2017-07-14T13:14:34Z">
+        <test-method status="PASS" signature="Create_A_New_Board()[pri:1, instance:TestVersion2@28d25987]" name="Create_A_New_Board" duration-ms="1613" started-at="2017-07-18T14:18:13Z" finished-at="2017-07-18T14:18:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Create_A_New_Board -->
-        <test-method status="PASS" signature="Get_List_Of_Boards()[pri:2, instance:Test_Version1@28d25987]" name="Get_List_Of_Boards" duration-ms="379" started-at="2017-07-14T13:14:34Z" finished-at="2017-07-14T13:14:34Z">
+        <test-method status="PASS" signature="Get_List_Of_Boards()[pri:2, instance:TestVersion2@28d25987]" name="Get_List_Of_Boards" duration-ms="1767" started-at="2017-07-18T14:18:15Z" finished-at="2017-07-18T14:18:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Get_List_Of_Boards -->
-        <test-method status="PASS" signature="Join_new_player()[pri:3, instance:Test_Version1@28d25987]" name="Join_new_player" duration-ms="772" started-at="2017-07-14T13:14:34Z" finished-at="2017-07-14T13:14:35Z">
+        <test-method status="PASS" signature="Join_new_player()[pri:3, instance:TestVersion2@28d25987]" name="Join_new_player" duration-ms="921" started-at="2017-07-18T14:18:16Z" finished-at="2017-07-18T14:18:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Join_new_player -->
-        <test-method status="PASS" signature="Move_Player()[pri:4, instance:Test_Version1@28d25987]" name="Move_Player" duration-ms="316" started-at="2017-07-14T13:14:35Z" finished-at="2017-07-14T13:14:35Z">
+        <test-method status="PASS" signature="Move_Player()[pri:4, instance:TestVersion2@28d25987]" name="Move_Player" duration-ms="432" started-at="2017-07-18T14:18:17Z" finished-at="2017-07-18T14:18:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Move_Player -->
-        <test-method status="PASS" signature="Check_Player_With_Id_And_Put_Delete()[pri:5, instance:Test_Version1@28d25987]" name="Check_Player_With_Id_And_Put_Delete" duration-ms="423" started-at="2017-07-14T13:14:35Z" finished-at="2017-07-14T13:14:35Z">
+        <test-method status="PASS" signature="Check_Player_With_Id_And_Put_Delete()[pri:5, instance:TestVersion2@28d25987]" name="Check_Player_With_Id_And_Put_Delete" duration-ms="396" started-at="2017-07-18T14:18:18Z" finished-at="2017-07-18T14:18:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Check_Player_With_Id_And_Put_Delete -->
-        <test-method status="PASS" signature="Delete_Board()[pri:6, instance:Test_Version1@28d25987]" name="Delete_Board" duration-ms="550" started-at="2017-07-14T13:14:35Z" finished-at="2017-07-14T13:14:36Z">
+        <test-method status="PASS" signature="Delete_Board()[pri:6, instance:TestVersion2@28d25987]" name="Delete_Board" duration-ms="658" started-at="2017-07-18T14:18:18Z" finished-at="2017-07-18T14:18:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Delete_Board -->
-      </class> <!-- Test_Version1 -->
+      </class> <!-- TestVersion2 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
